@@ -1,0 +1,15 @@
+harry:
+    type: Book
+    title: Harry Potter and the Order of the Phoenix
+    author: Rowling, J. K.
+    volume: 5
+    page-total: 768
+    date: 2003-06-21
+
+harry2:
+    type: Book
+    title: Harry Potter and the Order of the Phoenix
+    author: ["Rowling, J. K", "J.K. ,Wichser"]
+    volume: 5
+    page-total: 768
+    date: 2003-06-2
